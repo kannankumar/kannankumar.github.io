@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d36811e2-2d8c-4e9a-ae6b-d82ea85c9720" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fontawesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fontawesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fontawesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fontawesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fontawesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fontawesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gridloading/css/component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gridloading/js/AnimOnScroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gridloading/js/classie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gridloading/js/imagesloaded.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gridloading/js/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gridloading/js/modernizr.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/behance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dribbble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flickr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image_old/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image_old/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image_old/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image_old/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image_old/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image_old/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/grid-image_old/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header-bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/linked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/odesk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pinterest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonial-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="372" column="42" selection-start-line="372" selection-start-column="42" selection-end-line="372" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kannankumar.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kannankumar.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36811e2-2d8c-4e9a-ae6b-d82ea85c9720" name="Default" comment="" />
+      <created>1522693397055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522693397055</updated>
+      <workItem from="1522693401639" duration="470000" />
+      <workItem from="1523628978849" duration="67000" />
+      <workItem from="1523791890550" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="43" width="1400" height="773" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/aframe.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="372" column="42" selection-start-line="372" selection-start-column="42" selection-end-line="372" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

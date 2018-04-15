@@ -1,0 +1,36 @@
+.margin-auto {
+    margin:auto
+}
+
+.hero{
+    margin-top:200px;
+    margin-bottom:200px;
+}
+
+.card-columns {
+
+    column-count: 3;
+    column-gap: 50px;
+
+}
+.section-heading{
+    margin-top: 100px;
+}
+
+.skill-card-deck{
+    margin-bottom: 100px;
+}
+
+.dev-project{
+    /*margin-top:100px;*/
+    padding-top:50px;
+    padding-bottom:50px;
+    border-bottom: 1px solid #ececec;
+}
+.card{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    -webkit-box-shadow:  0 0 1rem 0.5rem rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 0 1rem 0.5rem rgba(0,0,0,0.1);
+    box-shadow: 0 0 1rem 0.5rem rgba(0,0,0,0.1);
+}
